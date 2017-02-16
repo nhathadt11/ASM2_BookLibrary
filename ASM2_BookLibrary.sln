@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASM2_BookLibrary", "ASM2_BookLibrary\ASM2_BookLibrary.csproj", "{0A3C7DF4-2FEA-4FE0-A5E7-A2EA5EB96CFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyBookLibrary", "MyBookLibrary\MyBookLibrary.csproj", "{671C4767-732F-4F44-99C7-D6ED7332ECCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A3C7DF4-2FEA-4FE0-A5E7-A2EA5EB96CFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A3C7DF4-2FEA-4FE0-A5E7-A2EA5EB96CFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A3C7DF4-2FEA-4FE0-A5E7-A2EA5EB96CFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A3C7DF4-2FEA-4FE0-A5E7-A2EA5EB96CFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{671C4767-732F-4F44-99C7-D6ED7332ECCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{671C4767-732F-4F44-99C7-D6ED7332ECCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{671C4767-732F-4F44-99C7-D6ED7332ECCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{671C4767-732F-4F44-99C7-D6ED7332ECCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
